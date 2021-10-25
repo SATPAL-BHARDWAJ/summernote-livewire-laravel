@@ -1,9 +1,10 @@
+<img src="thumbnail.png" alt="Final output"/>
+
 # summernote-livewire-laravel
 A simple example to use summernote WYSIWYG editor with Livewire and Laravel 
 
 # Output
 <img src="output.png" alt="Final output" width="600"/> 
-<img src="thumbnail.png" alt="Final output" width="600"/>
 
 # Read Blog
 [Summernote editor with livewire and laravel](https://sbsharma.com/summernote-editor-livewire-laravel/)
